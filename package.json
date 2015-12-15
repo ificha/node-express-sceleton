@@ -1,0 +1,22 @@
+{
+  "name": "node-express01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "file-stream-rotator": "0.0.6",
+    "morgan": "^1.6.1",
+    "orm": "^2.1.29",
+    "pg": "^4.4.3",
+    "q-orm": "0.0.3"
+  },
+  "devDependencies": {
+    "tsd": "^0.6.5"
+  }
+}
